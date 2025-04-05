@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.0.1-alpha.2 (2025-04-05)
+
+Full Changelog: [v0.0.1-alpha.1...v0.0.1-alpha.2](https://github.com/Mirascope/lilypad-sdk-node/compare/v0.0.1-alpha.1...v0.0.1-alpha.2)
+
+### Bug Fixes
+
+* **api:** improve type resolution when importing as a package ([#5](https://github.com/Mirascope/lilypad-sdk-node/issues/5)) ([bfabe9c](https://github.com/Mirascope/lilypad-sdk-node/commit/bfabe9c60bc2673c1121ab1e3668ce4e4f0e357b))
+* **mcp:** remove unused tools.ts ([#7](https://github.com/Mirascope/lilypad-sdk-node/issues/7)) ([7226923](https://github.com/Mirascope/lilypad-sdk-node/commit/72269236f98381d90cfe6e35737b3ed96f95e827))
+
 ## 0.0.1-alpha.1 (2025-04-02)
 
 Full Changelog: [v0.0.1-alpha.0...v0.0.1-alpha.1](https://github.com/Mirascope/lilypad-sdk-node/compare/v0.0.1-alpha.0...v0.0.1-alpha.1)

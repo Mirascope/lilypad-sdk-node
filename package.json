@@ -1,6 +1,6 @@
 {
   "name": "lilypad-sdk",
-  "version": "0.0.1-alpha.1",
+  "version": "0.0.1-alpha.2",
   "description": "The official TypeScript library for the Lilypad API",
   "author": "Lilypad <support@mirascope.com>",
   "types": "dist/index.d.ts",
